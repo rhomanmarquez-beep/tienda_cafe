@@ -1,0 +1,3 @@
+inicioalgoritmo
+definir amigos como real
+finalalgoritmo
